@@ -1,0 +1,24 @@
+{
+  "name": "kyash",
+  "version": "1.0.2",
+  "description": "Module to integrate with Kyash Cash deposit system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Vora",
+  "license": "ISC",
+  "keywords": [
+    "kyash",
+    "cash"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voraparth91/kyash"
+  },
+  "homepage": "http://www.kyash.com/",
+  "dependencies": {
+    "co": "^4.6.0",
+    "request-promise": "^2.0.1"
+  }
+}
